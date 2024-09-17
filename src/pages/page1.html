@@ -9,18 +9,49 @@
 
     <script src="../js/chancesRemainingPage1.js" defer></script>
     <script src="../js/helpTips.js" defer></script>
+    <script src="../js/resultPage1.js" defer></script>
 </head>
 <body>
     <header>
-        
+        <nav class="header__links">
+            <div class="header__links-title">
+                <h1>Palpite Certeiro</h1>
+            </div><!--header__links-title-->
+
+            <div class="header__links__others">
+                <button type="button" id="open-help-tips">Dicas</button>
+
+                <a href="../../index.html">
+                    <button type="button">Sair do jogo</button>
+                </a>
+            </div><!--header__links__others-->
+            
+        </nav><!--header__links-->
     </header>
 
     <main>
-        
-    </main>
+        <section class="question">
+            <h4 id="show-time"></h4>
+            <h1 id="question">Qual é o nome do operador lógico representado pelo símbolo "V"?</h1>
+        </section><!--question-->
 
-    <footer>
-        
-    </footer>
+        <section class="responses">
+            <div class="response__single">
+                <button type="button" id="disjuncao">Disjunção</button>
+            </div><!--response__single-->
+
+            <div class="response__single">
+                <button type="button" id="conjuncao">Conjunção</button>
+            </div><!--response__single-->
+
+            <div class="response__single">
+                <button type="button" id="condicional">Condicional</button>
+            </div><!--response__single-->
+
+            <div class="response__single">
+                <button type="button" id="bicondicional">Bi-condicional</button>
+            </div><!--response__single-->
+        </section><!--responses-->
+    </main>
 </body>
 </html>
