@@ -22,7 +22,8 @@ header {
 }
 
 header button{
-    padding: 10px 15px;
+    width: 140px;
+    height: 40px;
     border: 0;
     border-radius: 5px;
     cursor: pointer;
@@ -32,6 +33,10 @@ header button{
     font-size: 15px;
     letter-spacing: 0.5px;
     transition: 0.3s ease-in;
+}
+
+header button#open-help-tips{
+    width: 90px;
 }
 
 header button:active{
