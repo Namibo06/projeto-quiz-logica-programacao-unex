@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded',()=>{
         simbolos.innerHTML="⋀, ⋁, ←→, e !  0pts";
 
         setTimeout(() => {
-            window.location.href="page4.html";
+            window.location.href="page-final.html";
         }, 3000);
     });
 
@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded',()=>{
         simbolos.innerHTML="⋀, ⋁, ←→, e !  0pts";
 
         setTimeout(() => {
-            window.location.href="page4.html";
+            window.location.href="page-final.html";
         }, 3000);
     });
 
@@ -105,7 +105,7 @@ document.addEventListener('DOMContentLoaded',()=>{
         simbolos.innerHTML="⋀, ⋁, ←→, e !  0pts";
 
         setTimeout(() => {
-            window.location.href="page4.html";
+            window.location.href="page-final.html";
         }, 3000);
     });
 
@@ -137,7 +137,7 @@ document.addEventListener('DOMContentLoaded',()=>{
         simbolos.innerHTML="⋀, ⋁, ←→, e !  0pts";
 
         setTimeout(() => {
-            window.location.href="page4.html";
+            window.location.href="page-final.html";
         }, 3000);
     });
 });
