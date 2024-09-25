@@ -28,6 +28,12 @@ document.addEventListener('DOMContentLoaded',()=>{
 
         disjuncao.style.border="2px solid #f5f5f5";
 
+        /**estilos pra não quebrar */
+        disjuncao.style.fontSize="16px";
+        conjuncao.style.fontSize="16px";
+        condicional.style.fontSize="16px";
+        bicondicional.style.fontSize="16px";
+
         disjuncao.innerHTML="Disjunção  10pts";
         conjuncao.innerHTML="Conjunção  0pts";
         condicional.innerHTML="Condicional  0pts";
@@ -51,6 +57,12 @@ document.addEventListener('DOMContentLoaded',()=>{
         condicional.style.color="#f5f5f5";
         bicondicional.style.backgroundColor="#ff0000";
         bicondicional.style.color="#f5f5f5";
+
+        /**estilos pra não quebrar */
+        disjuncao.style.fontSize="16px";
+        conjuncao.style.fontSize="16px";
+        condicional.style.fontSize="16px";
+        bicondicional.style.fontSize="16px";
 
         conjuncao.style.border="2px solid #f5f5f5";
         disjuncao.innerHTML="Disjunção  10pts";
@@ -78,6 +90,12 @@ document.addEventListener('DOMContentLoaded',()=>{
         bicondicional.style.backgroundColor="#ff0000";
         bicondicional.style.color="#f5f5f5";
 
+        /**estilos pra não quebrar */
+        disjuncao.style.fontSize="16px";
+        conjuncao.style.fontSize="16px";
+        condicional.style.fontSize="16px";
+        bicondicional.style.fontSize="16px";
+
         condicional.style.border="2px solid #f5f5f5";
         disjuncao.innerHTML="Disjunção  10pts";
         conjuncao.innerHTML="Conjunção  0pts";
@@ -102,6 +120,12 @@ document.addEventListener('DOMContentLoaded',()=>{
         condicional.style.color="#f5f5f5";
         bicondicional.style.backgroundColor="#ff0000";
         bicondicional.style.color="#f5f5f5";
+
+        /**estilos pra não quebrar */
+        disjuncao.style.fontSize="16px";
+        conjuncao.style.fontSize="16px";
+        condicional.style.fontSize="16px";
+        bicondicional.style.fontSize="16px";
 
         bicondicional.style.border="2px solid #f5f5f5";
         disjuncao.innerHTML="Disjunção  10pts";

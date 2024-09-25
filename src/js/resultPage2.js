@@ -29,6 +29,12 @@ document.addEventListener('DOMContentLoaded',()=>{
 
         declaracaoVerdadeiraOuFalsa.style.border="2px solid #f5f5f5";
 
+        /**estilos pra não quebrar */
+        declaracaoVerdadeiraOuFalsa.style.fontSize="16px";
+        fraseSemSignificado.style.fontSize="16px";
+        expressaoVerdadeira.style.fontSize="16px";
+        expressaoMatematica.style.fontSize="16px";
+
         declaracaoVerdadeiraOuFalsa.innerHTML="Uma declaração que pode ser verdadeira ou falsa 10pts";
         fraseSemSignificado.innerHTML="Uma frase sem significado  0pts";
         expressaoVerdadeira.innerHTML="  Uma expressão verdadeira  0pts";
@@ -54,6 +60,12 @@ document.addEventListener('DOMContentLoaded',()=>{
         expressaoMatematica.style.color="#f5f5f5";
 
         fraseSemSignificado.style.border="2px solid #f5f5f5";
+
+        /**estilos pra não quebrar */
+        declaracaoVerdadeiraOuFalsa.style.fontSize="16px";
+        fraseSemSignificado.style.fontSize="16px";
+        expressaoVerdadeira.style.fontSize="16px";
+        expressaoMatematica.style.fontSize="16px";
 
         declaracaoVerdadeiraOuFalsa.innerHTML="Uma declaração que pode ser verdadeira ou falsa 10pts";
         fraseSemSignificado.innerHTML="Uma frase sem significado  0pts";
@@ -81,6 +93,12 @@ document.addEventListener('DOMContentLoaded',()=>{
 
         expressaoVerdadeira.style.border="2px solid #f5f5f5";
 
+        /**estilos pra não quebrar */
+        declaracaoVerdadeiraOuFalsa.style.fontSize="16px";
+        fraseSemSignificado.style.fontSize="16px";
+        expressaoVerdadeira.style.fontSize="16px";
+        expressaoMatematica.style.fontSize="16px";
+
         declaracaoVerdadeiraOuFalsa.innerHTML="Uma declaração que pode ser verdadeira ou falsa 10pts";
         fraseSemSignificado.innerHTML="Uma frase sem significado  0pts";
         expressaoVerdadeira.innerHTML="  Uma expressão verdadeira  0pts";
@@ -106,6 +124,12 @@ document.addEventListener('DOMContentLoaded',()=>{
         expressaoMatematica.style.color="#f5f5f5";
 
         expressaoMatematica.style.border="2px solid #f5f5f5";
+
+        /**estilos pra não quebrar */
+        declaracaoVerdadeiraOuFalsa.style.fontSize="16px";
+        fraseSemSignificado.style.fontSize="16px";
+        expressaoVerdadeira.style.fontSize="16px";
+        expressaoMatematica.style.fontSize="16px";
 
         declaracaoVerdadeiraOuFalsa.innerHTML="Uma declaração que pode ser verdadeira ou falsa 10pts";
         fraseSemSignificado.innerHTML="Uma frase sem significado  0pts";
