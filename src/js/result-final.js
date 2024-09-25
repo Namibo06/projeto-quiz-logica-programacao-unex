@@ -36,9 +36,5 @@ document.addEventListener('DOMContentLoaded',()=>{
 
         result.innerHTML = `${agreedIssues} / ${quantityQuestions}`;
         phrase.innerHTML = phraseContent; 
-    }else{
-        console.log(`${agreedIssues} / ${quantityQuestions}`);
-        result.innerHTML = `0 / ${quantityQuestions}`;
-        phrase.innerHTML = "Você acabou de tentar roubar"; 
     }
 });
